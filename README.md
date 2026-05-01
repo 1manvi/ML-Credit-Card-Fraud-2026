@@ -8,7 +8,6 @@ This project uses the Vehicle Insurance Fraud Detection from Kaggle.
 This project uses the Car Insurance Fraud dataset ("carclaims"), originally provided by Angoss Knowledge Seeker.
 
 Key characteristics:
-
 Total samples: 15,420
 
 Legitimate claims: 14,497
